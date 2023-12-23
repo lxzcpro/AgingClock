@@ -1,2 +1,2 @@
 # AgingClock
-This is a model which trying to recurrence the paper DNA methylation age of human tissues and cell types by Steve Horvath
+This is a model which trying to recurrence the paper DNA methylation age of human tissues and cell types by Steve Horvath. We are going to use deep learning to see whether it would be more accurated with nowadays' technology.
